@@ -25,10 +25,10 @@ ARGUMENTS
 EXAMPLE1
      unicode-block -h
 
-  EXAMPLE2
+EXAMPLE2
      unicode-block -l
 
-  EXAMPLE3
+EXAMPLE3
      unicode-block Thai
 
 REPOSITORY

@@ -57,11 +57,11 @@ unicode-block - Script to print Unicode blocks.
 
  unicode-block -h
 
-=head2 EXAMPLE2
+=head1 EXAMPLE2
 
  unicode-block -l
 
-=head2 EXAMPLE3
+=head1 EXAMPLE3
 
  unicode-block Thai
 
