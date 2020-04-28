@@ -1,3 +1,5 @@
+0.05
+
 0.04 2020-04-28T15:19:27+02:00
  - Remove test for -l option because list of Unicode modules isn't stable
    over Perl releases.
