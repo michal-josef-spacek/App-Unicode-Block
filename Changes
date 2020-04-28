@@ -1,4 +1,4 @@
-0.02
+0.02 2020-04-28T14:07:01+02:00
  - Add tests for constructor.
  - Add tests for run() method.
  - Move argument parsing from constructor to run() method.
