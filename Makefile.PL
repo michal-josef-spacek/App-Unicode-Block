@@ -18,7 +18,6 @@ license 'bsd';
 name 'App-Unicode-Block';
 readme_from 'bin/unicode-block';
 recursive_author_tests('xt');
-requires 'Class::Utils' => 0.03;
 requires 'Curses::UI' => 0;
 requires 'Encode' => 0;
 requires 'Error::Pure' => 0.15;

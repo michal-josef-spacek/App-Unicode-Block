@@ -1,4 +1,5 @@
 0.02
+ - Move argument parsing from constructor to run() method.
 
 0.01 2020-01-19T17:49:52+01:00
  - First version.
