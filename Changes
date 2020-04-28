@@ -1,4 +1,6 @@
 0.04
+ - Remove test for -l option because list of Unicode modules isn't stable over
+   Perl releases.
 
 0.03 2020-04-28T15:07:24+02:00
  - Fix test dependencies.
