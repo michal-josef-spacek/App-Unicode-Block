@@ -1,4 +1,5 @@
 0.03
+ - Fix test dependencies.
  - Remove obsolete module usage in test.
 
 0.02 2020-04-28T14:07:01+02:00
