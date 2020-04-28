@@ -7,7 +7,6 @@ use Error::Pure::Utils qw(clean);
 use Test::More 'tests' => 5;
 use Test::NoWarnings;
 use Test::Output;
-use Unicode::UTF8 qw(decode_utf8);
 
 # Test.
 @ARGV = (
